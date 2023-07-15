@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_loginapp_22/loginpage.dart';
-import 'package:flutter_loginapp_22/registerpage.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class MyHomepage extends StatefulWidget {
